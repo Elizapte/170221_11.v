@@ -15,7 +15,7 @@ print(5+6)
 #6)Kalniòa Agnese
 
 #7) Knope Elizabete
-1+1=3
+print(1+11)
 #8) Laizâns Ralfs Adrians
 
 #9)Neija Niks Rûdolfs
